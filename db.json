@@ -27,8 +27,62 @@
   "schedules": [
     {
       "id": 1,
-      "date": "01-01-2020",
+      "date": "08-10-2020",
       "personId": 2,
+      "presenceId": 1
+    },
+    {
+      "id": 2,
+      "date": "08-11-2020",
+      "personId": 2,
+      "presenceId": 1
+    },
+    {
+      "id": 3,
+      "date": "08-12-2020",
+      "personId": 2,
+      "presenceId": 1
+    },
+    {
+      "id": 4,
+      "date": "08-13-2020",
+      "personId": 2,
+      "presenceId": 1
+    },
+    {
+      "id": 5,
+      "date": "08-14-2020",
+      "personId": 2,
+      "presenceId": 1
+    },
+    {
+      "id": 6,
+      "date": "08-10-2020",
+      "personId": 3,
+      "presenceId": 1
+    },
+    {
+      "id": 7,
+      "date": "08-11-2020",
+      "personId": 3,
+      "presenceId": 1
+    },
+    {
+      "id": 8,
+      "date": "08-12-2020",
+      "personId": 3,
+      "presenceId": 1
+    },
+    {
+      "id": 9,
+      "date": "08-13-2020",
+      "personId": 3,
+      "presenceId": 1
+    },
+    {
+      "id": 10,
+      "date": "08-14-2020",
+      "personId": 3,
       "presenceId": 1
     }
   ],
