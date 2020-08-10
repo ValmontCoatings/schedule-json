@@ -24,12 +24,36 @@
       "managerId": 1
     }
   ],
-  "schedules": [],
+  "schedules": [
+    {
+      "id": 1,
+      "date": "01-01-2020",
+      "personId": 2,
+      "presenceId": 1
+    }
+  ],
   "sites": [
     {
       "id": 1,
       "name": "Omaha",
       "managerId": 1
+    }
+  ],
+  "presenceTypes": [
+    {
+      "id": 1,
+      "name": "Home Office",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Vacation",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Working From Home",
+      "active": true
     }
   ]
 }
